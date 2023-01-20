@@ -2,7 +2,7 @@
 - This package provides many ways to animate your text. Please chackout the documentation.
 
 # Install
-`$ npm install react-simple-animate`
+`$ npm install anime-texty`
 
 # **Types of animations**
 - **Fade In**: Make the text fade in.
