@@ -1,7 +1,9 @@
 {
   "name": "anime-texty",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package provides many ways to animate your text. Please chackout the documentation.",
+  "repository":  "https://github.com/savantrada/anime-texty",
+  "homepage": "https://github.com/savantrada/anime-texty",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
