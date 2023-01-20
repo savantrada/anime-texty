@@ -1,0 +1,15 @@
+{
+  "name": "anime-texty",
+  "version": "1.0.3",
+  "description": "This package provides many ways to animate your text. Please chackout the documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "savankumar trada",
+  "license": "MIT",
+  "dependencies": {
+    "animejs": "^3.2.1"
+  },
+  "keywords": ["animate", "text", "react", "html", "animation", "library"]
+}
